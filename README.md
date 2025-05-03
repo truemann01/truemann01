@@ -44,9 +44,9 @@ Google BigQuery ( Data pipelines, Query
 
 ## Personal Projects
 
-- Tech layoff Data and Exploration
+- Tech layoff Data cleaning and Exploration
 - Cyclistic Bike share Business insight
-- NHS A&E Attendance and admissions Data exploration.
+- NHS A&E Attendance and admissions Data cleaning & Exploration.
 
 
 ## Data Analytics
