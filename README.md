@@ -1,16 +1,59 @@
-## Hi there 👋
+Data Analyst | Data Enthusiast | Soft Skills 
 
-<!--
-**truemann01/truemann01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+ 
+
+ 
+
+ 
+
+📧 Email: igbahazukaanderson@gmail.com 
+📎 LinkedIn: (https://www.linkedin.com/in/Anderson-igbah/)
+# 💼 Professional Experience
+
+## Data Analyst
+
+📉 Business Insights: Providing strategic analysis using SQL, Power BI, Python, and Excel. 📢 Stakeholder Engagement: Presenting insights clearly and professionally to ensure high-quality product delivery. 📈 
+
+Data Visualization: 
+
+# 🔧 Technical Skills
+
+## Programming
+
+ - Python (Pandas, Matplotlib, Seaborn, Jupyter Notebook)
+
+  - SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)
+  
+## Cloud 
+Google BigQuery ( Data pipelines, Query
+ ETL Pipelines, Web Scraping)
+
+## Data Visualization
+
+ Power BI (Dashboards, DAX, Business Reporting)
+
+
+## 📚 Education
+
+🎓 BEng. Electronic and Computer Engineering (Fedreral University of Technology Owerri, Nigeria 2018) 
+
+## Personal Projects
+
+- Tech layoff Data and Exploration
+- Cyclistic Bike share Business insight
+- NHS A&E Attendance and admissions Data exploration.
+
+
+## Data Analytics
+
+
+## 📫 Contact
+
+📧 Email: igbahazukaanderson@gmail.com
+🌍 GitHub: Azuka Igbah
+💼 LinkedIn: 
