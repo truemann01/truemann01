@@ -30,7 +30,7 @@ Data Visualization:
   - SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)
   
 ## Cloud 
-Google BigQuery ( Data pipelines, Query
+Google BigQuery ( Data pipelines, Query, 
  ETL Pipelines, Web Scraping)
 
 ## Data Visualization
