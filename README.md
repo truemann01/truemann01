@@ -55,5 +55,5 @@ Google BigQuery ( Data pipelines, Query,
 ## 📫 Contact
 
 - 📧 Email: igbahazukaanderson@gmail.com
-- 🌍 GitHub: Azuka Igbah
+- 🌍 GitHub: <a href="https://github.com/truemann01/truemann01">Azuka Igbah</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/anderson-igbah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Azuka-Igbah</a>
